@@ -1,1 +1,4 @@
+aplikasi penjualan sederhana warung atau kantin
+Warung atau kantin kecil membutuhkan aplikasi sederhana yang dapat membantu pengguna(admin/kasir)mengelola dan memantau data barang, seperti mengecek ketersediaan stok serta melihat harga barang dan melakukan transaksi, serta (Pemilik) Melihat rekap penjualan dan produk terjual.
+Maka tim kami buatkan aplikasi penjualan sederhana guna untuk memudahkan pemilik serta kasir dalam mengelola usaha yang dimiliki. Tujuan dari pembuatan aplikasi ini antara lain, Mendigitalisasi pencatatan data utama pada kasus secara terstruktur,Menyediakan operasi CRUD yang mudah digunakan dan tersimpan pada basis data relasional, Memudahkan pengguna menemukan data melalui pencarian/filter, Menghasilkan rekap pelaporan sederhana untuk mendukung pemantauan aktivitas pada kasus.
 
